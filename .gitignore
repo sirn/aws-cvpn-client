@@ -1,0 +1,7 @@
+*
+!README.md
+!flake.nix
+!flake.lock
+!src/
+!src/**
+!.gitignore
